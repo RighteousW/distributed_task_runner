@@ -1,0 +1,15 @@
+2026-01-19 12:42:09,401 - worker-2 - INFO - Started on localhost:5002
+2026-01-19 12:42:12,350 - worker-2 - INFO - Received message type: heartbeat
+2026-01-19 12:42:12,351 - worker-2 - INFO - Received message type: task
+2026-01-19 12:42:12,351 - worker-2 - INFO - Processing task transform-3
+2026-01-19 12:42:12,351 - worker-2 - INFO - Executing task transform-3 (est. 1.86s)
+2026-01-19 12:42:14,217 - worker-2 - INFO - Task transform-3 completed successfully
+2026-01-19 12:42:14,217 - worker-2 - INFO - Task transform-3 finished in 1.87s
+2026-01-19 13:29:17,993 - worker-2 - INFO - Found available port: 5001
+2026-01-19 13:29:17,993 - worker-2 - INFO - Started on localhost:5001
+2026-01-19 13:29:19,202 - worker-2 - INFO - Registered master at 127.0.0.1:4999
+2026-01-19 13:29:19,202 - worker-2 - INFO - Received register from ('127.0.0.1', 49684)
+2026-01-19 13:29:19,202 - worker-2 - INFO - Registration request received
+2026-01-19 13:29:53,002 - worker-2 - WARNING - No master contact for 33.8s
+2026-01-19 13:29:53,003 - worker-2 - CRITICAL - Master node unreachable - terminating worker
+2026-01-19 13:29:53,003 - worker-2 - INFO - Worker shutdown complete

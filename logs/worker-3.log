@@ -1,0 +1,9 @@
+2026-01-19 12:42:09,402 - worker-3 - INFO - Started on localhost:5003
+2026-01-19 13:29:18,095 - worker-3 - INFO - Found available port: 5002
+2026-01-19 13:29:18,095 - worker-3 - INFO - Started on localhost:5002
+2026-01-19 13:29:19,203 - worker-3 - INFO - Registered master at 127.0.0.1:4999
+2026-01-19 13:29:19,203 - worker-3 - INFO - Received register from ('127.0.0.1', 46472)
+2026-01-19 13:29:19,203 - worker-3 - INFO - Registration request received
+2026-01-19 13:29:53,102 - worker-3 - WARNING - No master contact for 33.9s
+2026-01-19 13:29:53,102 - worker-3 - CRITICAL - Master node unreachable - terminating worker
+2026-01-19 13:29:53,102 - worker-3 - INFO - Worker shutdown complete

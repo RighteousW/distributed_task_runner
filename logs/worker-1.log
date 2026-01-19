@@ -1,0 +1,213 @@
+2026-01-19 12:42:09,400 - worker-1 - INFO - Started on localhost:5001
+2026-01-19 12:42:09,915 - worker-1 - INFO - Received message type: heartbeat
+2026-01-19 12:42:09,916 - worker-1 - INFO - Received message type: heartbeat
+2026-01-19 12:42:09,916 - worker-1 - INFO - Received message type: heartbeat
+2026-01-19 12:42:09,916 - worker-1 - INFO - Received message type: heartbeat
+2026-01-19 12:42:09,916 - worker-1 - INFO - Received message type: heartbeat
+2026-01-19 12:42:09,916 - worker-1 - INFO - Received message type: heartbeat
+2026-01-19 12:42:09,916 - worker-1 - INFO - Received message type: heartbeat
+2026-01-19 12:42:09,916 - worker-1 - INFO - Received message type: heartbeat
+2026-01-19 12:42:09,917 - worker-1 - INFO - Received message type: heartbeat
+2026-01-19 12:42:09,917 - worker-1 - INFO - Received message type: heartbeat
+2026-01-19 12:42:09,917 - worker-1 - INFO - Received message type: heartbeat
+2026-01-19 12:42:09,917 - worker-1 - INFO - Received message type: heartbeat
+2026-01-19 12:42:09,917 - worker-1 - INFO - Received message type: heartbeat
+2026-01-19 12:42:09,917 - worker-1 - INFO - Received message type: heartbeat
+2026-01-19 12:42:09,918 - worker-1 - INFO - Received message type: heartbeat
+2026-01-19 12:42:09,934 - worker-1 - INFO - Received message type: task
+2026-01-19 12:42:09,934 - worker-1 - INFO - Processing task task-0
+2026-01-19 12:42:09,934 - worker-1 - INFO - Executing task task-0 (est. 1.65s)
+2026-01-19 12:42:09,934 - worker-1 - INFO - Received message type: task
+2026-01-19 12:42:09,934 - worker-1 - INFO - Processing task task-3
+2026-01-19 12:42:09,934 - worker-1 - INFO - Executing task task-3 (est. 1.88s)
+2026-01-19 12:42:09,934 - worker-1 - INFO - Received message type: task
+2026-01-19 12:42:09,934 - worker-1 - INFO - Processing task task-6
+2026-01-19 12:42:09,934 - worker-1 - INFO - Executing task task-6 (est. 1.03s)
+2026-01-19 12:42:09,935 - worker-1 - INFO - Received message type: task
+2026-01-19 12:42:09,935 - worker-1 - INFO - Processing task task-9
+2026-01-19 12:42:09,935 - worker-1 - INFO - Executing task task-9 (est. 1.43s)
+2026-01-19 12:42:09,935 - worker-1 - INFO - Received message type: task
+2026-01-19 12:42:09,935 - worker-1 - INFO - Processing task task-1
+2026-01-19 12:42:09,935 - worker-1 - INFO - Executing task task-1 (est. 0.90s)
+2026-01-19 12:42:09,935 - worker-1 - INFO - Received message type: task
+2026-01-19 12:42:09,935 - worker-1 - INFO - Processing task task-2
+2026-01-19 12:42:09,935 - worker-1 - INFO - Executing task task-2 (est. 0.99s)
+2026-01-19 12:42:09,935 - worker-1 - INFO - Received message type: task
+2026-01-19 12:42:09,935 - worker-1 - INFO - Processing task task-4
+2026-01-19 12:42:09,935 - worker-1 - INFO - Executing task task-4 (est. 1.67s)
+2026-01-19 12:42:09,935 - worker-1 - INFO - Received message type: task
+2026-01-19 12:42:09,935 - worker-1 - INFO - Processing task task-5
+2026-01-19 12:42:09,935 - worker-1 - INFO - Executing task task-5 (est. 1.09s)
+2026-01-19 12:42:09,935 - worker-1 - INFO - Received message type: task
+2026-01-19 12:42:09,936 - worker-1 - INFO - Processing task task-7
+2026-01-19 12:42:09,936 - worker-1 - INFO - Executing task task-7 (est. 1.38s)
+2026-01-19 12:42:09,936 - worker-1 - INFO - Received message type: task
+2026-01-19 12:42:09,936 - worker-1 - INFO - Processing task task-8
+2026-01-19 12:42:09,936 - worker-1 - INFO - Executing task task-8 (est. 0.81s)
+2026-01-19 12:42:09,936 - worker-1 - INFO - Received message type: task
+2026-01-19 12:42:09,936 - worker-1 - INFO - Processing task transform-0
+2026-01-19 12:42:09,936 - worker-1 - INFO - Executing task transform-0 (est. 1.27s)
+2026-01-19 12:42:09,936 - worker-1 - INFO - Received message type: task
+2026-01-19 12:42:09,936 - worker-1 - INFO - Processing task transform-1
+2026-01-19 12:42:09,936 - worker-1 - INFO - Executing task transform-1 (est. 1.92s)
+2026-01-19 12:42:09,936 - worker-1 - INFO - Received message type: task
+2026-01-19 12:42:09,936 - worker-1 - INFO - Processing task transform-2
+2026-01-19 12:42:09,936 - worker-1 - INFO - Executing task transform-2 (est. 1.40s)
+2026-01-19 12:42:09,937 - worker-1 - INFO - Received message type: task
+2026-01-19 12:42:09,937 - worker-1 - INFO - Processing task transform-3
+2026-01-19 12:42:09,937 - worker-1 - INFO - Executing task transform-3 (est. 1.91s)
+2026-01-19 12:42:09,937 - worker-1 - INFO - Received message type: task
+2026-01-19 12:42:09,937 - worker-1 - INFO - Processing task transform-4
+2026-01-19 12:42:09,937 - worker-1 - INFO - Executing task transform-4 (est. 1.23s)
+2026-01-19 12:42:10,748 - worker-1 - ERROR - Task task-8 failed: Worker worker-1 simulated failure
+2026-01-19 12:42:10,748 - worker-1 - INFO - Task task-8 finished in 0.81s
+2026-01-19 12:42:10,838 - worker-1 - INFO - Task task-1 completed successfully
+2026-01-19 12:42:10,839 - worker-1 - INFO - Task task-1 finished in 0.90s
+2026-01-19 12:42:10,925 - worker-1 - INFO - Task task-2 completed successfully
+2026-01-19 12:42:10,925 - worker-1 - INFO - Task task-2 finished in 0.99s
+2026-01-19 12:42:10,967 - worker-1 - INFO - Task task-6 completed successfully
+2026-01-19 12:42:10,967 - worker-1 - INFO - Task task-6 finished in 1.03s
+2026-01-19 12:42:11,026 - worker-1 - ERROR - Task task-5 failed: Worker worker-1 simulated failure
+2026-01-19 12:42:11,027 - worker-1 - INFO - Task task-5 finished in 1.09s
+2026-01-19 12:42:11,168 - worker-1 - INFO - Task transform-4 completed successfully
+2026-01-19 12:42:11,169 - worker-1 - INFO - Task transform-4 finished in 1.23s
+2026-01-19 12:42:11,203 - worker-1 - INFO - Task transform-0 completed successfully
+2026-01-19 12:42:11,203 - worker-1 - INFO - Task transform-0 finished in 1.27s
+2026-01-19 12:42:11,251 - worker-1 - INFO - Received message type: heartbeat
+2026-01-19 12:42:11,253 - worker-1 - INFO - Received message type: task
+2026-01-19 12:42:11,253 - worker-1 - INFO - Processing task task-8
+2026-01-19 12:42:11,253 - worker-1 - INFO - Executing task task-8 (est. 1.83s)
+2026-01-19 12:42:11,316 - worker-1 - INFO - Task task-7 completed successfully
+2026-01-19 12:42:11,316 - worker-1 - INFO - Task task-7 finished in 1.38s
+2026-01-19 12:42:11,336 - worker-1 - INFO - Task transform-2 completed successfully
+2026-01-19 12:42:11,336 - worker-1 - INFO - Task transform-2 finished in 1.40s
+2026-01-19 12:42:11,361 - worker-1 - INFO - Task task-9 completed successfully
+2026-01-19 12:42:11,361 - worker-1 - INFO - Task task-9 finished in 1.43s
+2026-01-19 12:42:11,530 - worker-1 - INFO - Received message type: heartbeat
+2026-01-19 12:42:11,531 - worker-1 - INFO - Received message type: task
+2026-01-19 12:42:11,532 - worker-1 - INFO - Processing task task-5
+2026-01-19 12:42:11,532 - worker-1 - INFO - Executing task task-5 (est. 0.84s)
+2026-01-19 12:42:11,589 - worker-1 - ERROR - Task task-0 failed: Worker worker-1 simulated failure
+2026-01-19 12:42:11,589 - worker-1 - INFO - Task task-0 finished in 1.66s
+2026-01-19 12:42:11,606 - worker-1 - INFO - Task task-4 completed successfully
+2026-01-19 12:42:11,606 - worker-1 - INFO - Task task-4 finished in 1.67s
+2026-01-19 12:42:11,811 - worker-1 - INFO - Task task-3 completed successfully
+2026-01-19 12:42:11,811 - worker-1 - INFO - Task task-3 finished in 1.88s
+2026-01-19 12:42:11,847 - worker-1 - ERROR - Task transform-3 failed: Worker worker-1 simulated failure
+2026-01-19 12:42:11,847 - worker-1 - INFO - Task transform-3 finished in 1.91s
+2026-01-19 12:42:11,858 - worker-1 - INFO - Task transform-1 completed successfully
+2026-01-19 12:42:11,858 - worker-1 - INFO - Task transform-1 finished in 1.92s
+2026-01-19 12:42:12,092 - worker-1 - INFO - Received message type: heartbeat
+2026-01-19 12:42:12,093 - worker-1 - INFO - Received message type: task
+2026-01-19 12:42:12,093 - worker-1 - INFO - Processing task task-0
+2026-01-19 12:42:12,093 - worker-1 - INFO - Executing task task-0 (est. 1.97s)
+2026-01-19 12:42:12,377 - worker-1 - INFO - Task task-5 completed successfully
+2026-01-19 12:42:12,377 - worker-1 - INFO - Task task-5 finished in 0.85s
+2026-01-19 12:42:13,083 - worker-1 - ERROR - Task task-8 failed: Worker worker-1 simulated failure
+2026-01-19 12:42:13,084 - worker-1 - INFO - Task task-8 finished in 1.83s
+2026-01-19 12:42:13,587 - worker-1 - INFO - Received message type: heartbeat
+2026-01-19 12:42:13,589 - worker-1 - INFO - Received message type: task
+2026-01-19 12:42:13,589 - worker-1 - INFO - Processing task task-8
+2026-01-19 12:42:13,589 - worker-1 - INFO - Executing task task-8 (est. 1.98s)
+2026-01-19 12:42:14,065 - worker-1 - INFO - Task task-0 completed successfully
+2026-01-19 12:42:14,066 - worker-1 - INFO - Task task-0 finished in 1.97s
+2026-01-19 12:42:15,574 - worker-1 - INFO - Task task-8 completed successfully
+2026-01-19 12:42:15,575 - worker-1 - INFO - Task task-8 finished in 1.99s
+2026-01-19 13:29:17,890 - worker-1 - INFO - Found available port: 5000
+2026-01-19 13:29:17,891 - worker-1 - INFO - Started on localhost:5000
+2026-01-19 13:29:19,200 - worker-1 - INFO - Registered master at 127.0.0.1:4999
+2026-01-19 13:29:19,200 - worker-1 - INFO - Received register from ('127.0.0.1', 43768)
+2026-01-19 13:29:19,200 - worker-1 - INFO - Registration request received
+2026-01-19 13:29:19,716 - worker-1 - INFO - Received heartbeat from ('127.0.0.1', 43774)
+2026-01-19 13:29:19,716 - worker-1 - INFO - Received heartbeat from ('127.0.0.1', 43780)
+2026-01-19 13:29:19,716 - worker-1 - INFO - Received heartbeat from ('127.0.0.1', 43790)
+2026-01-19 13:29:19,716 - worker-1 - INFO - Received heartbeat from ('127.0.0.1', 43796)
+2026-01-19 13:29:19,716 - worker-1 - INFO - Received heartbeat from ('127.0.0.1', 43812)
+2026-01-19 13:29:19,716 - worker-1 - INFO - Received heartbeat from ('127.0.0.1', 43820)
+2026-01-19 13:29:19,717 - worker-1 - INFO - Received heartbeat from ('127.0.0.1', 43836)
+2026-01-19 13:29:19,717 - worker-1 - INFO - Received heartbeat from ('127.0.0.1', 43852)
+2026-01-19 13:29:19,717 - worker-1 - INFO - Received heartbeat from ('127.0.0.1', 43854)
+2026-01-19 13:29:19,717 - worker-1 - INFO - Received heartbeat from ('127.0.0.1', 43870)
+2026-01-19 13:29:19,717 - worker-1 - INFO - Received heartbeat from ('127.0.0.1', 43886)
+2026-01-19 13:29:19,717 - worker-1 - INFO - Received heartbeat from ('127.0.0.1', 43900)
+2026-01-19 13:29:19,717 - worker-1 - INFO - Received heartbeat from ('127.0.0.1', 43904)
+2026-01-19 13:29:19,718 - worker-1 - INFO - Received heartbeat from ('127.0.0.1', 43910)
+2026-01-19 13:29:19,718 - worker-1 - INFO - Received heartbeat from ('127.0.0.1', 43926)
+2026-01-19 13:29:19,737 - worker-1 - INFO - Received task from ('127.0.0.1', 43930)
+2026-01-19 13:29:19,737 - worker-1 - INFO - Processing task compute-0
+2026-01-19 13:29:19,738 - worker-1 - INFO - Executing task compute-0 (~1.17s)
+2026-01-19 13:29:19,738 - worker-1 - INFO - Received task from ('127.0.0.1', 43936)
+2026-01-19 13:29:19,738 - worker-1 - INFO - Processing task compute-3
+2026-01-19 13:29:19,738 - worker-1 - INFO - Executing task compute-3 (~1.05s)
+2026-01-19 13:29:19,738 - worker-1 - INFO - Received task from ('127.0.0.1', 43942)
+2026-01-19 13:29:19,739 - worker-1 - INFO - Processing task compute-9
+2026-01-19 13:29:19,739 - worker-1 - INFO - Executing task compute-9 (~1.92s)
+2026-01-19 13:29:19,739 - worker-1 - INFO - Received task from ('127.0.0.1', 43946)
+2026-01-19 13:29:19,739 - worker-1 - INFO - Processing task compute-6
+2026-01-19 13:29:19,739 - worker-1 - INFO - Executing task compute-6 (~0.57s)
+2026-01-19 13:29:19,739 - worker-1 - INFO - Received task from ('127.0.0.1', 43952)
+2026-01-19 13:29:19,740 - worker-1 - INFO - Processing task compute-1
+2026-01-19 13:29:19,740 - worker-1 - INFO - Executing task compute-1 (~1.15s)
+2026-01-19 13:29:19,740 - worker-1 - INFO - Received task from ('127.0.0.1', 43956)
+2026-01-19 13:29:19,740 - worker-1 - INFO - Processing task compute-2
+2026-01-19 13:29:19,740 - worker-1 - INFO - Executing task compute-2 (~1.92s)
+2026-01-19 13:29:19,740 - worker-1 - INFO - Received task from ('127.0.0.1', 43964)
+2026-01-19 13:29:19,740 - worker-1 - INFO - Processing task compute-5
+2026-01-19 13:29:19,741 - worker-1 - INFO - Executing task compute-5 (~1.87s)
+2026-01-19 13:29:19,741 - worker-1 - INFO - Received task from ('127.0.0.1', 43972)
+2026-01-19 13:29:19,741 - worker-1 - INFO - Processing task compute-4
+2026-01-19 13:29:19,741 - worker-1 - INFO - Executing task compute-4 (~0.55s)
+2026-01-19 13:29:19,741 - worker-1 - INFO - Received task from ('127.0.0.1', 43980)
+2026-01-19 13:29:19,741 - worker-1 - INFO - Processing task compute-7
+2026-01-19 13:29:19,742 - worker-1 - INFO - Executing task compute-7 (~0.91s)
+2026-01-19 13:29:19,742 - worker-1 - INFO - Received task from ('127.0.0.1', 43990)
+2026-01-19 13:29:19,742 - worker-1 - INFO - Processing task transform-0
+2026-01-19 13:29:19,742 - worker-1 - INFO - Executing task transform-0 (~1.65s)
+2026-01-19 13:29:19,742 - worker-1 - INFO - Received task from ('127.0.0.1', 44002)
+2026-01-19 13:29:19,742 - worker-1 - INFO - Processing task compute-8
+2026-01-19 13:29:19,742 - worker-1 - INFO - Executing task compute-8 (~0.74s)
+2026-01-19 13:29:19,743 - worker-1 - INFO - Received task from ('127.0.0.1', 44004)
+2026-01-19 13:29:19,743 - worker-1 - INFO - Processing task transform-1
+2026-01-19 13:29:19,743 - worker-1 - INFO - Executing task transform-1 (~0.56s)
+2026-01-19 13:29:19,743 - worker-1 - INFO - Received task from ('127.0.0.1', 44014)
+2026-01-19 13:29:19,743 - worker-1 - INFO - Processing task transform-2
+2026-01-19 13:29:19,743 - worker-1 - INFO - Executing task transform-2 (~1.85s)
+2026-01-19 13:29:19,744 - worker-1 - INFO - Received task from ('127.0.0.1', 44028)
+2026-01-19 13:29:19,744 - worker-1 - INFO - Processing task transform-3
+2026-01-19 13:29:19,744 - worker-1 - INFO - Executing task transform-3 (~0.82s)
+2026-01-19 13:29:19,744 - worker-1 - INFO - Received task from ('127.0.0.1', 44030)
+2026-01-19 13:29:19,744 - worker-1 - INFO - Processing task transform-4
+2026-01-19 13:29:19,745 - worker-1 - INFO - Executing task transform-4 (~0.71s)
+2026-01-19 13:29:20,288 - worker-1 - INFO - Task compute-4 completed successfully
+2026-01-19 13:29:20,288 - worker-1 - INFO - Task finished in 0.55s
+2026-01-19 13:29:20,304 - worker-1 - INFO - Task transform-1 completed successfully
+2026-01-19 13:29:20,304 - worker-1 - INFO - Task finished in 0.56s
+2026-01-19 13:29:20,311 - worker-1 - INFO - Task compute-6 completed successfully
+2026-01-19 13:29:20,311 - worker-1 - INFO - Task finished in 0.57s
+2026-01-19 13:29:20,458 - worker-1 - INFO - Task transform-4 completed successfully
+2026-01-19 13:29:20,458 - worker-1 - INFO - Task finished in 0.71s
+2026-01-19 13:29:20,483 - worker-1 - INFO - Task compute-8 completed successfully
+2026-01-19 13:29:20,483 - worker-1 - INFO - Task finished in 0.74s
+2026-01-19 13:29:20,562 - worker-1 - INFO - Task transform-3 completed successfully
+2026-01-19 13:29:20,563 - worker-1 - INFO - Task finished in 0.82s
+2026-01-19 13:29:20,655 - worker-1 - INFO - Task compute-7 completed successfully
+2026-01-19 13:29:20,655 - worker-1 - INFO - Task finished in 0.91s
+2026-01-19 13:29:20,792 - worker-1 - INFO - Task compute-3 completed successfully
+2026-01-19 13:29:20,792 - worker-1 - INFO - Task finished in 1.05s
+2026-01-19 13:29:20,889 - worker-1 - INFO - Task compute-1 completed successfully
+2026-01-19 13:29:20,889 - worker-1 - INFO - Task finished in 1.15s
+2026-01-19 13:29:20,910 - worker-1 - INFO - Task compute-0 completed successfully
+2026-01-19 13:29:20,910 - worker-1 - INFO - Task finished in 1.17s
+2026-01-19 13:29:21,392 - worker-1 - INFO - Task transform-0 completed successfully
+2026-01-19 13:29:21,393 - worker-1 - INFO - Task finished in 1.65s
+2026-01-19 13:29:21,600 - worker-1 - INFO - Task transform-2 completed successfully
+2026-01-19 13:29:21,600 - worker-1 - INFO - Task finished in 1.86s
+2026-01-19 13:29:21,607 - worker-1 - INFO - Task compute-5 completed successfully
+2026-01-19 13:29:21,607 - worker-1 - INFO - Task finished in 1.87s
+2026-01-19 13:29:21,658 - worker-1 - INFO - Task compute-9 completed successfully
+2026-01-19 13:29:21,658 - worker-1 - INFO - Task finished in 1.92s
+2026-01-19 13:29:21,665 - worker-1 - INFO - Task compute-2 completed successfully
+2026-01-19 13:29:21,666 - worker-1 - INFO - Task finished in 1.93s
+2026-01-19 13:29:52,919 - worker-1 - WARNING - No master contact for 33.2s
+2026-01-19 13:29:52,919 - worker-1 - CRITICAL - Master node unreachable - terminating worker
+2026-01-19 13:29:52,920 - worker-1 - INFO - Worker shutdown complete
